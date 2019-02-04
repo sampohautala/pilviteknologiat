@@ -1,0 +1,2 @@
+# Pilviteknologiat
+Pilviteknologiat  -kurssin tiedostot.
